@@ -123,3 +123,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#local wts and checkpoints
+
+.ipynb_checkpoints
+yolov3.weights
