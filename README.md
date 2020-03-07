@@ -27,10 +27,9 @@ Feel free to fork it and create your own versions. Make sure you have installed 
 
 simply clone the repository to acquire the dataset.
 
-
 ## Dependencies
 
-### Prerequisites 
+### Prerequisites
 
 - Python 3.x+
 - OpenCV 2
@@ -42,7 +41,6 @@ simply clone the repository to acquire the dataset.
 ```
 pip install opencv-contrib-python
 ```
-
 
 #### For weights
 
@@ -63,19 +61,17 @@ Clone and see if you find anything to improve upon. You can also create issues u
 
 GitHub
 
-
-
 ## Todo
 
 - [x] Setup yolov3
-- [ ] Convert dataset to yolov3 format
+- [x] Convert dataset to yolov3 format. Check [this](C:\Users\Helios\Desktop\Google Image Downloader + Rocket Dataset\converter-scripts) out to know how to do that.
 - [ ] Train the yolov3 model on custom dataset
 - [ ] Upload weights and share here via Mega or GDrive
+
 ## Dataset
 
 The dataset(coming soon) is inside data folder with image folder names corresponding the search term used to download those images.
-
-
+Meanwhile check [this](https://github.com/sunn-e/Google-Image-Downloader-Rocket-Dataset) out!
 
 ## Notice
 
