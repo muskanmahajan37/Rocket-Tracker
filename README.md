@@ -11,7 +11,7 @@
 ## How to use
 
 - `git clone https://github.com/sunn-e/OpenCV-Yolov3-CPU/`
-- `cd OpenCV-Yolov3-CPU
+- `cd OpenCV-Yolov3-CPU`
 - download weights and configuration file from [here](https://pjreddie.com/darknet/yolo/)
 - download coco.names from [here](https://github.com/pjreddie/darknet/blob/master/data/coco.names)
 - run the main notebook using jupiter notebook
