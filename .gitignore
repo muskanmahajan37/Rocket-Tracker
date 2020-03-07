@@ -126,5 +126,5 @@ dmypy.json
 
 #local wts and checkpoints
 
-.ipynb_checkpoints
+.ipynb_checkpoints/
 yolov3.weights
