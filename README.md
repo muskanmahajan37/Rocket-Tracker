@@ -18,7 +18,8 @@
 - Give input/objects when prompt opens.
 - Custom folder name is supported, may have to change script a little
 - Wait for pictres to get displayed
-- Open "TinyYolov3-Prototype-custom-rocket.ipynb" in 
+- Open `TinyYolov3-Prototype-custom-rocket.ipynb` in jupyter notebook
+- Enter 1 for webcam mode and 2 for custom video mode. 
 
 ## Contribute
 
