@@ -18,6 +18,7 @@
 - Give input/objects when prompt opens.
 - Custom folder name is supported, may have to change script a little
 - Wait for pictres to get displayed
+- Open "TinyYolov3-Prototype-custom-rocket.ipynb" in 
 
 ## Contribute
 
@@ -65,8 +66,11 @@ GitHub
 
 - [x] Setup yolov3
 - [x] Convert dataset to yolov3 format. Check [this](C:\Users\Helios\Desktop\Google Image Downloader + Rocket Dataset\converter-scripts) out to know how to do that.
-- [ ] Train the yolov3 model on custom dataset
-- [ ] Upload weights and share here via Mega or GDrive
+- [x] Train the yolov3 model on custom dataset
+- [x] Upload weights and share here via Mega or GDrive
+- [x] Added webcam mode with realtime rocket detection
+- [x] Added video file mode with realtime object detection
+- [x] Upload demo video online. Link coming soon.
 
 ## Dataset
 
@@ -75,7 +79,7 @@ Meanwhile check [this](https://github.com/sunn-e/Google-Image-Downloader-Rocket-
 
 ## Notice
 
-The images(if any) have been provided for educational purpose and are owned by their respective owners.
+The images(if any), videos have been provided for educational purpose and are owned by their respective owners.
 
 ## Authors
 
