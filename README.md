@@ -1,8 +1,8 @@
-# OpenCV-Yolov3-CPU
+# OpenCV-TinyYolov3-CPU
 
 ## Description
 
- A setup to run open cv with yolov3 on CPU.
+ A setup to run open cv with tiny yolov3 on CPU.
 
 ## Features
 
