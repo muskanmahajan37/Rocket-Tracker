@@ -91,7 +91,7 @@ pip install opencv-contrib-python
 
 #### For weights
 
-- You may copy paste the image folders to your intended location or simply copy past the path to out machine learning/deep learning model script.
+- I have provided the one I trained using google collab for 5000 epochs. Vrious models are under the custom weights model. Feel free to use them.
 
 
 ## Built With
@@ -115,7 +115,7 @@ Meanwhile check [this](https://github.com/sunn-e/Google-Image-Downloader-Rocket-
 
 ## Notice
 
-The images(if any), videos have been provided for educational purpose and are owned by their respective owners.
+The images(if any), videos have been provided for educational purpose and are owned by their respective owners. Dataset is custom variant of Open Image Dataset v4.
 
 ## Authors
 
