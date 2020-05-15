@@ -15,6 +15,17 @@ The tracking algorithm will be running on the Raspberry PI, which will be moving
 
 ## Features
 
+The model has been trained from scratch using the rocket image dataset I created from Google's OID/v4. I put the components of the whole project in different repositories.
+- I built a web scrapper to download custom dataset 
+   - [My Tool Link](https://github.com/sunn-e/Google-Image-Downloader-Rocket-Dataset)
+   - You can reuse it to download other images too.
+- Built a tool to convert annottions type from OID Label to Yolov3 format.
+   - [My Tool Link](https://github.com/sunn-e/OIDLabelToTFRecords)
+   - This helps to train model. We do this before actual training instead of during training as it may create bottleneck.
+- Created detailed guide on how to setup and train the model.
+   - [My Tool Link](https://github.com/sunn-e/RocketModelTrainer)
+   - The model used is TinyYolo v3 as it can be deploed on raspberry pi too. It can be trained using Yolov3 as well with few tweaks in parameters section.
+
 ### Todo
 
 - [x] Setup yolov3
