@@ -27,6 +27,7 @@ The tracking algorithm will be running on the Raspberry PI, which will be moving
 
 ## How to use
 
+### Run on your PC with provided weights
 - `git clone https://github.com/sunn-e/OpenCV-Yolov3-CPU/`
 - `cd OpenCV-Yolov3-CPU`
 - download weights and configuration file from [here](https://pjreddie.com/darknet/yolo/)
@@ -38,9 +39,16 @@ The tracking algorithm will be running on the Raspberry PI, which will be moving
 - Open `TinyYolov3-Prototype-custom-rocket.ipynb` in jupyter notebook
 - Enter 1 for webcam mode and 2 for custom video mode. 
 
+### Run with your custom weights
+
+This is a feasible process but I do have few resources for you if are up for the challenge. 
+Step 1: [Visit my other repository.](https://github.com/sunn-e/HPRTracker2)
+Step 2: Read my article on medium about how to install tensorflow on your NVidia CUDA GPU systm [here](https://medium.com/@sunnydhoke22)
+
 ## Contribute
 
-Feel free to fork it and create your own versions. Make sure you have installed all the dependencies
+Feel free to fork it and create your own versions. Make sure you have installed all the dependencies.
+Check out my other [repo](https://github.com/sunn-e/HPRTracker2) to learn how to train your own models from scratch.
 
 ## Getting Started
 
